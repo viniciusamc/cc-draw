@@ -2,11 +2,10 @@
 
 Draw on top of your frontend with **the real Excalidraw** and have **Claude Code** apply it.
 
-```
-Claude builds the UI  →  you open it in cc-draw  →  draw, pick elements, comment
-        ↑                                                          ↓
-   page updates  ←  Claude edits the files  ←  "Send to Claude"
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/flow-dark.svg">
+  <img alt="The cc-draw loop: open your app in cc-draw, draw on the page, send to Claude, Claude edits your files, the page reloads, repeat" src="docs/flow-light.svg" width="900">
+</picture>
 
 ## Install
 

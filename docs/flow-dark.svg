@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="cc-draw loop: open your app in cc-draw, draw on the page, send to Claude, Claude edits your files, the page reloads, repeat">
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#6e7681"/></marker></defs>
+  
+  <g>
+    <rect x="16" y="16" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="16" y="30" width="4" height="68" rx="2" fill="#a5a3ff"/>
+    <text x="36" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8" fill="#a5a3ff">1 · YOU</text>
+    <text x="36" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Open your app in cc-draw</text>
+    <text x="36" y="93" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9198a1">cc-draw . --proxy &lt;url&gt;</text>
+  </g>
+  <g>
+    <rect x="320" y="16" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="320" y="30" width="4" height="68" rx="2" fill="#a5a3ff"/>
+    <text x="340" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8" fill="#a5a3ff">2 · YOU</text>
+    <text x="340" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Draw on the page</text>
+    <text x="340" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">shapes, arrows, element picks</text>
+  </g>
+  <g>
+    <rect x="624" y="16" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="624" y="30" width="4" height="68" rx="2" fill="#a5a3ff"/>
+    <text x="644" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8" fill="#a5a3ff">3 · YOU</text>
+    <text x="644" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Send to Claude</text>
+    <text x="644" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">Ctrl+Enter · review panel</text>
+  </g>
+  <g>
+    <rect x="624" y="178" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="624" y="192" width="4" height="68" rx="2" fill="#ee8d6a"/>
+    <text x="644" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8" fill="#ee8d6a">4 · CLAUDE CODE</text>
+    <text x="644" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Claude edits your files</text>
+    <text x="644" y="255" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">one annotation at a time</text>
+  </g>
+  <g>
+    <rect x="320" y="178" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="320" y="192" width="4" height="68" rx="2" fill="#4fc9a4"/>
+    <text x="340" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8" fill="#4fc9a4">5 · CC-DRAW</text>
+    <text x="340" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Page reloads</text>
+    <text x="340" y="255" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">changes highlighted</text>
+  </g>
+  <path d="M280 64H314" fill="none" stroke="#6e7681" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M584 64H618" fill="none" stroke="#6e7681" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M754 116V172" fill="none" stroke="#6e7681" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M620 226H586" fill="none" stroke="#6e7681" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M450 174V118" fill="none" stroke="#6e7681" stroke-width="2" marker-end="url(#a)"/>
+  <text x="460" y="149" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-style="italic" fill="#9198a1">repeat</text>
+  <rect x="16" y="178" width="260" height="96" rx="12" fill="#0d1117" stroke="#30363d" stroke-dasharray="4 4"/>
+  <text x="36" y="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">Every send is saved in</text>
+  <text x="36" y="240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e6edf3">.cc-draw/feedback/</text>
+</svg>
