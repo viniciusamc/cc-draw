@@ -1,0 +1,37 @@
+{
+  "name": "cc-draw",
+  "version": "0.1.0",
+  "description": "Draw annotations on top of your frontend and have Claude Code apply them.",
+  "type": "module",
+  "bin": {
+    "cc-draw": "bin/cc-draw.js"
+  },
+  "scripts": {
+    "start": "node bin/cc-draw.js",
+    "example": "node bin/cc-draw.js example",
+    "build": "node scripts/build-canvas.mjs",
+    "build:dev": "node scripts/build-canvas.mjs --dev",
+    "prepare": "node scripts/build-canvas.mjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "dist"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "modern-screenshot": "^4.7.0"
+  },
+  "devDependencies": {
+    "@excalidraw/excalidraw": "0.18.1",
+    "esbuild": "^0.28.2",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
